@@ -1,0 +1,36 @@
+body, .green-btn {
+	background-color: #539538;
+}
+.green-bkg {
+	background-color: #cfffb3;
+}
+.green-bkg-menu {
+	background-color: #e3f5c2;
+}
+.jumbotron {
+	border-radius: 0;
+	border-right: 1px solid #99d87f;
+}
+.red {
+	color: red;
+}
+.green {
+	color: green;
+}
+.rose {
+	color: #ff8360;
+}
+/* .brand {
+	color: #ff5f33;
+	font-family: 'Pacifico', cursive;
+} */
+.brand {
+	color: #ff5f33;
+	font-family: 'Dancing Script', cursive;
+}
+/* .table-light {
+	background-color: #fffff8;
+} */
+/* .thead-light {
+	background-color: #99d87f;
+} */
