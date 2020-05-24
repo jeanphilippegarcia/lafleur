@@ -1,3 +1,3 @@
 # lafleur
 
-![boutique](./projects.png "boutique")
+![boutique](./simulation-ecommerce-php-bootstrap.png "boutique")
